@@ -1,9 +1,8 @@
-# Getting Started with Create React App
-
+# Build and deploy Node.js app to Azure Web App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+You can find the github action workflow to deploy mern stack project to Azure.
 In the project directory, you can run:
 
 ### `npm start`
